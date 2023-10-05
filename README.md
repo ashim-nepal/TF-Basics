@@ -20,6 +20,7 @@ This Repository consists of everything I have done during Tensorflow practice an
 #### What does this repository consist of?
 
 This repo is full of different kinds of topics I have  learned/practiced in Tensorflow. Projects may vary from being basic to advanced.
+But it consists of those practices I have done while studying TF from scratch.
 
 
 #### What programming language is used for Algorithm?
